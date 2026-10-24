@@ -1,0 +1,25 @@
+node_modules/
+accounts
+studio-site
+مثلث
+علم النفس
+*.mov
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.wav
+*.aac
+*.m4a
+.DS_Store
+_pkg/
+*.skill
+output/
+work/
+rm/public/face/
+rm/public/screen/
+data.json
+hook.json
+__pycache__/
+*.pyc
